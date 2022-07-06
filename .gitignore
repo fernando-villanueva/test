@@ -1,2 +1,4 @@
 Dockerfile
 .idea/*
+/.idea/*
+README.md
